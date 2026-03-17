@@ -24,3 +24,5 @@ This project analyzes sales data using Python to extract meaningful insights and
 ## 📈 Output
 - Displays total sales by category and region
 - Generates bar charts for better understanding
+  <img width="1916" height="1023" alt="image" src="https://github.com/user-attachments/assets/65a5d560-39d2-4b97-a998-e1df8d1e19b2" />
+
